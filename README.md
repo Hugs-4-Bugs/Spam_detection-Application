@@ -27,7 +27,7 @@ This API allows users to report spam numbers, search for contacts, and retrieve 
 ### Clone Repository
 ```bash
   git clone https://github.com/Hugs-4-Bugs/Spam_detection-Application.git
-  cd spam-detection-api
+  cd Spam_detection-Application
 ```
 
 ### Build and Run
